@@ -1,2 +1,2 @@
-# Lab3_Computer_Architecture
-CA_Lab 3
+# Lab_Computer_Architecture
+CA_Lab
